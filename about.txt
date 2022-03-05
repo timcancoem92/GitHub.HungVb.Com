@@ -1,0 +1,10 @@
+
+Name : Tools Posted HungVB.Com Blog
+Version : 1.0.0.0
+Author : Hung Visual Basic
+Website : Www.HungVB.Com
+License : Free Version 2022
+Update : No
+Use : Windows
+The program will notify users to update the all version when there are new changes to the blog. So everyone pay attention to update to use the best program. And the blog only has a single update page: https://www.hungvb.com/post everyone.
+
